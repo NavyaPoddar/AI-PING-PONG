@@ -23,3 +23,23 @@
 #start {
     font-size: 25px;
 }
+
+.footer {
+    width: 100%;
+    text-align: center;
+    background-color: rgba(4, 4, 255, 0.301);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: white;
+    bottom: 0;
+    position: fixed;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+.modal-body {
+    color: white;
+    text-align: center;
+}
